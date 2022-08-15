@@ -367,7 +367,7 @@ MonoBehaviour:
   _manageUsingUnityLifecycle: 1
   _planePrefab: {fileID: 1092543363889104, guid: 98e455e2ba6ba413287f8cd497d4b08e,
     type: 3}
-  _detectedPlaneTypes: 3
+  _detectedPlaneTypes: 1
 --- !u!114 &1894772637
 MonoBehaviour:
   m_ObjectHideFlags: 0
